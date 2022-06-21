@@ -3,7 +3,7 @@ export default function Content() {
         <div className="font-roboto py-2.5">
             <p className="pb-2.5">{text.longDesc1}</p>
             <p className="pb-2.5">{text.longDesc2}</p>
-            <p className="">{text.longDesc2}</p>
+            <p className="">{text.longDesc3}</p>
         </div>
     )
 }
