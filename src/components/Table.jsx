@@ -1,5 +1,5 @@
 export default function Table() {
-    return (<div className="font-roboto w-1/2 h-full">
+    return (<div className="font-roboto w-full h-full">
         <table className="table-auto w-full"
         //  style={{margin: "0 auto"}}
          >

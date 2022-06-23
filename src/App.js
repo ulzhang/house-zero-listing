@@ -13,11 +13,11 @@ function App() {
     <>
     <div className="bg-white">
       <Header />
-      <div className="container mx-auto " >
+      <div className="container mx-auto px-6" >
         <Title />
         <Carousel />
         <Content />
-        <div className="flex py-2.5">
+        <div className="grid grid-cols-1 md:grid-cols-2">
           <Map/>
           <Table />
         </div>
