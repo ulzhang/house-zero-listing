@@ -7,8 +7,8 @@ export default function Table() {
 
                 {table.map((t, index) => {
                     return (<tr>
-                        <td>{t.head}</td>
-                        <td className="text-end">{t.val}</td>
+                        <td className="text-stone-900 font-semibold">{t.head}</td>
+                        <td className="text-end text-stone-500 font-medium">{t.val}</td>
                     </tr>)
                 })}
 

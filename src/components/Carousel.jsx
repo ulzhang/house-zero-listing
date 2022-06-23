@@ -21,6 +21,8 @@ export default function Carousel() {
             responsive={responsive}
             showDots={true}
             infinite={true}
+            autoPlay={true}
+            autoPlaySpeed={3500}
             >
             {imageAssets.map((i, index) => {
                 return (<div key={index}>
