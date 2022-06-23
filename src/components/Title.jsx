@@ -1,6 +1,6 @@
 export default function Title() {
     return (
-        <div className="py-2.5 font-montserrat">
+        <div className="py-2.5 pt-5 font-montserrat">
             <h1 className="text-5xl text-stone-900 font-black">
                {"House Zero"}
             </h1>

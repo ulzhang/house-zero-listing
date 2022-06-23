@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-        <footer class="footer footer-center p-10 text-base-content rounded bg-gray-200">
+        <footer class="footer footer-center p-10 text-base-content bg-stone-200">
             <div class="grid md:grid-flow-col gap-4">
                 
                     <a target="_blank" rel="noopener noreferrer"  class="link link-hover" href="https://www.iconbuild.com/careers/4557636004?gh_jid=4557636004">Hire Me</a> 

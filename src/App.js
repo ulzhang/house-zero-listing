@@ -12,7 +12,7 @@ import Realtor from './components/Realtor';
 
 function App() {
   return (
-    <div className="bg-stone-900">
+    <div className="bg-white">
       <div className="bg-white md:mx-auto md:container">
         <Header />
         <div className="container mx-auto px-6" >
@@ -27,10 +27,8 @@ function App() {
           <Video />
           <AboutIcon />
         </div>
-        <div>
-          <Footer />
-        </div>
       </div>
+          <Footer />
     </div>
 
   );
