@@ -1,6 +1,6 @@
 export default function AboutIcon() {
     return (
-        <div className="font-roboto py-2.5 text-stone-900 text-md">
+        <div className="font-roboto py-2.5 pt-0 text-stone-900 text-md">
             <div>
                 <h3 className="text-stone-500 font-bold pb-1 text-xl">About ICON</h3>
                 <p className="pb-1.5">{text.aboutIcon1}</p>
